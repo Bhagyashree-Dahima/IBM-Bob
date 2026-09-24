@@ -116,7 +116,8 @@ The script will:
 
 Firefox and Chrome jointly top the revenue table. iOS and Android apps are a rapidly growing mobile channel. The **Others** category (bots / scripts) inflates session count but contributes differently to revenue.
 
-![BQ-2 Revenue by Browser](output_charts/bq2_browser_revenue.png)
+![BQ-2 Revenue by Browser](<img width="1440" height="600" alt="bq2_browser_revenue" src="https://github.com/user-attachments/assets/250b08db-3c91-4c25-b711-bfbae41ae286" />
+)
 
 ---
 
@@ -124,7 +125,8 @@ Firefox and Chrome jointly top the revenue table. iOS and Android apps are a rap
 
 **US → CA → IN** are the undisputed top 3 markets. European markets (DE, FR, IT) form a solid mid-tier. Emerging markets (AR, CN) show future growth potential.
 
-![BQ-3 Country Revenue](output_charts/bq3_country_revenue.png)
+![BQ-3 Country Revenue](<img width="1200" height="600" alt="bq3_country_revenue" src="https://github.com/user-attachments/assets/6810a8dd-e797-470e-b5e1-10af8cd495c8" />
+)
 
 ---
 
@@ -132,7 +134,8 @@ Firefox and Chrome jointly top the revenue table. iOS and Android apps are a rap
 
 Premium members account for a disproportionately large revenue share and exhibit more intentional (lower-return) purchasing behaviour.
 
-![BQ-4 Membership Revenue](output_charts/bq4_membership_revenue.png)
+![BQ-4 Membership Revenue](<img width="840" height="480" alt="bq4_membership_revenue" src="https://github.com/user-attachments/assets/da796f96-3810-44cb-93c1-753b0ebcf9c1" />
+)
 
 | Metric | Normal | Premium |
 |---|---|---|
@@ -146,7 +149,8 @@ Premium members account for a disproportionately large revenue share and exhibit
 
 Credit Card is both the most-used and highest-revenue payment channel. Ensuring a friction-free credit card checkout is the single biggest lever for revenue conversion.
 
-![BQ-5 Payment Method](output_charts/bq5_payment_method.png)
+![BQ-5 Payment Method](<img width="1440" height="600" alt="bq5_payment_method" src="https://github.com/user-attachments/assets/adfe4d7d-e668-4048-b13e-25a145f5af15" />
+)
 
 ---
 
@@ -154,7 +158,8 @@ Credit Card is both the most-used and highest-revenue payment channel. Ensuring 
 
 Both genders contribute substantially. Female shoppers generate a higher share of total sessions; male shoppers carry a marginally higher average order value. Return rates are similar (~6–7%).
 
-![BQ-6 Gender Revenue](output_charts/bq6_gender_revenue.png)
+![BQ-6 Gender Revenue](<img width="840" height="480" alt="bq6_gender_revenue" src="https://github.com/user-attachments/assets/d613ba4a-ae36-46d0-8927-7aa0089b4547" />
+)
 
 ---
 
@@ -162,7 +167,8 @@ Both genders contribute substantially. Female shoppers generate a higher share o
 
 The **25–34** and **35–44** cohorts dominate total revenue by volume. The **65+** cohort, despite lower session frequency, has the highest average order value — a premium niche worth separate marketing.
 
-![BQ-7 Age Revenue](output_charts/bq7_age_revenue.png)
+![BQ-7 Age Revenue](<img width="1200" height="600" alt="bq7_age_revenue" src="https://github.com/user-attachments/assets/4ad36875-8f8c-4a5d-ae48-5856412b64ac" />
+)
 
 ---
 
@@ -170,7 +176,8 @@ The **25–34** and **35–44** cohorts dominate total revenue by volume. The **
 
 Traffic and revenue peak in the **20:00–23:00 UTC** window — aligning with prime time across multiple time zones. A secondary peak occurs at **08:00–10:00 UTC**. Both windows are ideal for flash sales and push notifications.
 
-![BQ-9 Hourly Pattern](output_charts/bq9_hourly_pattern.png)
+![BQ-9 Hourly Pattern](<img width="1200" height="600" alt="bq9_hourly_pattern" src="https://github.com/user-attachments/assets/6183a0d0-f52c-48df-9d17-f984337d337d" />
+)
 
 ---
 
@@ -178,7 +185,8 @@ Traffic and revenue peak in the **20:00–23:00 UTC** window — aligning with p
 
 Return rates are broadly consistent (**5–10%**) across browsers, genders, and membership tiers. No single browser is disproportionately associated with returns. Premium members show marginally lower return rates.
 
-![BQ-10 Return Rates](output_charts/bq10_return_rates.png)
+![BQ-10 Return Rates](<img width="1680" height="600" alt="bq10_return_rates" src="https://github.com/user-attachments/assets/9b94e0b7-0c32-4033-903c-b3bb36abf035" />
+)
 
 ---
 
@@ -186,7 +194,8 @@ Return rates are broadly consistent (**5–10%**) across browsers, genders, and 
 
 The Pearson correlation between `duration_secs` and `sales` is close to **zero**. Longer sessions do not translate to higher purchases — focus on **intent signals**, not time-on-site.
 
-![BQ-11 Duration vs Sales](output_charts/bq11_duration_vs_sales.png)
+![BQ-11 Duration vs Sales](<img width="1200" height="600" alt="bq11_duration_vs_sales" src="https://github.com/user-attachments/assets/b5d8f571-129b-4168-9400-a146a7b6054a" />
+)
 
 ---
 
@@ -194,7 +203,8 @@ The Pearson correlation between `duration_secs` and `sales` is close to **zero**
 
 TCP accounts for **>99%** of all sessions. ICMP and raw HTTP appear minimally — ICMP sessions warrant a security audit as they represent non-standard (potentially scanning) traffic.
 
-![BQ-12 Network Protocol](output_charts/bq12_network_protocol.png)
+![BQ-12 Network Protocol](<img width="720" height="480" alt="bq12_network_protocol" src="https://github.com/user-attachments/assets/e688cf9c-1b82-4a88-af58-ea88a157275d" />
+)
 
 ---
 
@@ -202,7 +212,8 @@ TCP accounts for **>99%** of all sessions. ICMP and raw HTTP appear minimally �
 
 Revenue shows moderate day-to-day variability with mild weekly periodicity (weekends slightly lower for B2C in some regions). No dramatic growth or decline is visible in the 90-day window, indicating a **stable, mature platform**.
 
-![BQ-13 Daily Revenue](output_charts/bq13_daily_revenue.png)
+![BQ-13 Daily Revenue](<img width="1440" height="480" alt="bq13_daily_revenue" src="https://github.com/user-attachments/assets/022e5676-3b9e-43db-a0f7-a688d2b0eb2d" />
+)
 
 ---
 
@@ -210,7 +221,8 @@ Revenue shows moderate day-to-day variability with mild weekly periodicity (week
 
 Cash payments by **65+** customers and Credit Card usage by **35–44 year-olds** produce the highest average order values. Use this heatmap to personalise checkout prompts (e.g. surface credit card options for 35–54 age groups).
 
-![BQ-14 Heatmap](output_charts/bq14_age_payment_heatmap.png)
+![BQ-14 Heatmap](<img width="1200" height="600" alt="bq14_age_payment_heatmap" src="https://github.com/user-attachments/assets/a8d136e1-bc7d-4aa0-a7bd-185d18a759e2" />
+)
 
 ---
 
